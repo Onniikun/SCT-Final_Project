@@ -1,0 +1,20 @@
+---
+To: NatNat@email.ca
+Subject: ALERT: Unusual Activity: 2025-03-20
+Message: Notification for 404: Nathan Natoza: Large transaction $12,000.00: on account 7301.
+---
+---
+To: NatNat@email.ca
+Subject: ALERT: Unusual Activity: 2025-03-20
+Message: Notification for 404: Nathan Natoza: Large transaction $-10,005.00: on account 7301.
+---
+---
+To: NatNat@email.ca
+Subject: ALERT: Unusual Activity: 2025-03-20
+Message: Notification for 404: Nathan Natoza: Low balance warning $40.00: on account 7302.
+---
+---
+To: DomMon@email.ca
+Subject: ALERT: Unusual Activity: 2025-03-20
+Message: Notification for 123: Dominick Monserrate: Large transaction $10,000.00: on account 7303.
+---
